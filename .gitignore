@@ -1,0 +1,18 @@
+# Do not commit secrets!
+secret.py
+
+# To keep Udi and all the participants sane during the Hackathon
+# In real-life projects this file should actually BE in the repository
+Pipfile.lock
+secret.py
+# Other do-not-cmmoit files
+.idea
+.pytest_cache
+__pycache__/
+*.pyc
+venv/
+htmlcov/
+.ipynb_checkpoints
+Thumbs.db
+.DS_Store
+temp/
